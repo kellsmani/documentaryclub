@@ -1,0 +1,89 @@
+html,body
+{
+    height: 100%;
+    background-color: white
+}
+
+/*
+different color background
+html,body
+{
+    height: 100%;
+    background-color: black
+}
+*/
+
+img
+{
+    height: 100%;
+}
+
+#logo
+{
+    height: 20%;
+    background-color: white; text-align: center;
+}
+
+a
+{
+    text-decoration: none;
+    color: red;
+}
+
+#nav
+{
+    height:5%;
+    background-color: white ;
+    border-radius: 20% ;
+    font-family: 'Permanent Marker', cursive;
+}
+
+
+/*
+different color nav bar
+#nav
+{
+    height:5%;
+    background-color: black;
+    border-radius: 20%
+}
+*/
+
+.navi
+{
+    height: 30px;
+    width: 24%;
+    float: left;
+    text-align: center;
+    line-height: 30px; 
+    margin: auto
+}
+
+#main
+{
+    height: 60%;
+    background-color: white; 
+}
+
+.doc2
+{
+    width: 32%; float: left; border:2px solid white; 
+    height: 30%; margin: 2px; text-align: center;
+}
+
+#footer
+{
+    height: 10%;
+    background-color: white; color: black; text-align: center; 
+    font-family: 'Permanent Marker', cursive;
+}
+
+/*
+different color footer
+#footer
+{
+    height: 10%;
+    background-color: grey; color: white; text-align: center;
+}
+
+*/
